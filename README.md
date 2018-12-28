@@ -3,7 +3,7 @@ Kaggle Notification System with [Kaggle API](https://www.kaggle.com/docs/api) an
 
 
 ## System overview
-![Slack Notify](Slack\ Notify.png)
+![Slack Notify](Slack Notify.png)
 
 ## Installation
 1. Clone this Repository
